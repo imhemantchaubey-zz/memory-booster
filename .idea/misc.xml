@@ -3,9 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/codew/Desktop/memory-booster/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/codew/Desktop/memory-booster/app/src/main/res/layout/activity_second.xml" value="0.1" />
-        <entry key="..\:/Users/codew/Desktop/memory-booster/app/src/main/res/layout/memory_card.xml" value="0.1" />
+        <entry key="..\:/Android Projects/MemoryBooster/app/src/main/res/drawable-v24/ic_bikes.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Projects/MemoryBooster/app/src/main/res/drawable-v24/ic_icon.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Projects/MemoryBooster/app/src/main/res/drawable-v24/ic_refresh.xml" value="0.15925925925925927" />
+        <entry key="..\:/Android Projects/MemoryBooster/app/src/main/res/drawable/ic_size.xml" value="0.15925925925925927" />
+        <entry key="..\:/Android Projects/MemoryBooster/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Projects/MemoryBooster/app/src/main/res/layout/activity_second.xml" value="0.22" />
+        <entry key="..\:/Android Projects/MemoryBooster/app/src/main/res/layout/dialog_board_size.xml" value="0.25" />
+        <entry key="..\:/Android Projects/MemoryBooster/app/src/main/res/layout/memory_card.xml" value="0.22" />
+        <entry key="..\:/Android Projects/MemoryBooster/app/src/main/res/menu/menu_main.xml" value="0.25" />
+        <entry key="..\:/android-projects/memory-booster/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
       </map>
     </option>
   </component>
